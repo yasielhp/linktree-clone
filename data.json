@@ -1,0 +1,25 @@
+{
+	"name": "Yasiel Hernández Portal",
+	"avatar": "https://pbs.twimg.com/profile_images/742138890547539968/5QDwhWMu_400x400.jpg",
+	"links": [
+		{
+			"title": "Twitter",
+			"href": "https://twitter.com/yasielhp",
+			"image": "https://pbs.twimg.com/profile_images/742138890547539968/5QDwhWMu_400x400.jpg"
+		},
+		{
+			"title": "GitHub",
+			"href": "http://github/yasielhp"
+		}
+	],
+	"socials": [
+		{
+			"title": "Twitter",
+			"href": "https://twitter.com/yasielhp"
+		},
+		{
+			"title": "GitHub",
+			"href": "http://github/yasielhp"
+		}
+	]
+}
