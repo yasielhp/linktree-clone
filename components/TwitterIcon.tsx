@@ -1,6 +1,7 @@
 export const TwitterIcon = () => {
 	return (
 		<svg
+			className="stroke-black bg-gray-50 p-2 w-10 h-10	rounded-full hover:scale-125 transition-all"
 			xmlns="http://www.w3.org/2000/svg"
 			width="30"
 			height="30"
